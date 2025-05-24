@@ -29,4 +29,4 @@ Hệ thống bao gồm các bảng chính:
 
 ## Tác giả
 
-[Tên của bạn]
+[Nguyễn Hữu Tiến]
