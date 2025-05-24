@@ -1,0 +1,22 @@
+# SQL Server files
+*.mdf
+*.ldf
+*.ndf
+
+# User-specific files
+*.user
+*.suo
+
+# Visual Studio files
+.vs/
+*.dbmdl
+*.jfm
+
+# Backup & report files
+Backup*/
+*.bak
+*.tmp
+*.log
+
+# SQL Server Management Studio backup files
+*.sqlbak
